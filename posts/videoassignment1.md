@@ -23,7 +23,7 @@ Here, I also showcased myself drawing as that is another thing I am very intrest
 
 ![train commute]()
 
-A typical commute to the city, I tried focusing on the trains here because I am fairly fond of them here's it's a siemens nexus train set 763 with 751
+A typical commute to the city, I tried focusing on the trains here because I am fairly fond of them here's it's a siemens nexus train/////////// set 763 with 751
 
 ![Siemens train at trainstation](https://vicsig.net/suburban/siemens/20160705-763m-mor.jpg)
 ###### [photo of Luke Bailey from Vicsig](https://vicsig.net/index.php?page=suburban&section=rollingstock&set=763#gallery1-2)
