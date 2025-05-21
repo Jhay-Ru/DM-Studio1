@@ -29,7 +29,6 @@ and here with the terrain, painting in the height and texture. Though I didn't e
 Here i was going for experimenting with perspective and aligning objects to be viewable from a specific angle.
 (It says hi.)
 
----
 # the final
 okay this is where thing start pacing up.
 
@@ -51,12 +50,17 @@ Typical room. Here the objects are at your level now. Where the furniture didn't
 ![](city.png)
 And here we are today, I'm a fresh graduate, the city is big and it's a lot to take in. A walk through growing up I gotta say.
 
----
 # Attributions
 
 Grass texture from [textures4photoshop](https://www.textures4photoshop.com/tex/about.aspx#license)
+
 city skyline bg image from Tananuphong Kummaru on [vecteezy](https://www.vecteezy.com/png/13215129-modern-cityscape-skyline)
+
 sound effects by FreeSound_Community on [Pixabay](https://pixabay.com/)
+
 Concrete and wood texture sourced from [freepik](https://www.freepik.com/)
+
 Models sourced from [Sketchfab](https://sketchfab.com/)
+
 Building texture sourced from [unsplash](https://unsplash.com/)
+
