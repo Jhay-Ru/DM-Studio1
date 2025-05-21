@@ -29,3 +29,33 @@ and here with the terrain, painting in the height and texture. Though I didn't e
 Here i was going for experimenting with perspective and aligning objects to be viewable from a specific angle.
 (It says hi.)
 
+---
+# the final
+okay this is where thing start pacing up.
+
+![](layout.png)
+###### *Not much to look at but it is what it is.*
+# Encounters
+![](blankroom)
+It's where you start in, a blank room, because I can't remember anything from my past, it was black if i try to recall anything from my past.
+![](bighouse.png)
+This is based on my original house when I was around 4, I was convinced everything was larger than I thought it was.
+![](garden.png)
+Okay I could of sworn that my original garden was massive, I remember it would take my a bit to run from end to end.
+
+Here I decided to make the garden on a slope to create a forced perspective effect where you would feel like you would get larger as you walked in that direction.
+
+There's also this block of bricks there, honestly I don't remember what it actually was, but it was one of the only things in that garden, like some sort of fire place.
+![](classroom.png)
+Typical room. Here the objects are at your level now. Where the furniture didn't feel too large to be able to sit on nor too small to get stuck in. (i remember getting stuck in a chair that was too small when i visited my primary school.) 
+![](city.png)
+And here we are today, I'm a fresh graduate, the city is big and it's a lot to take in. A walk through growing up I gotta say.
+
+---
+# Attributions
+
+Grass texture from [textures4photoshop](https://www.textures4photoshop.com/tex/about.aspx#license)
+city skyline bg image from Tananuphong Kummaru on [vecteezy](https://www.vecteezy.com/png/13215129-modern-cityscape-skyline)
+sound effects by FreeSound_Community on [Pixabay](https://pixabay.com/)
+Concrete and wood texture sourced from [freepik](https://www.freepik.com/)
+Models sourced from [Sketchfab](https://sketchfab.com/)
